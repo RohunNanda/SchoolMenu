@@ -12,6 +12,7 @@ import javax.swing.border.EmptyBorder;
 
 public class AdminHome extends JFrame{
 	//comment
+	//comment
 
 	private JPanel panel = new JPanel(new GridBagLayout());
 	
